@@ -1,0 +1,576 @@
+[2026-03-10 11:56:27,802] DEEPMD WARNING To get the best performance, it is recommended to adjust the number of threads by setting the environment variables OMP_NUM_THREADS, DP_INTRA_OP_PARALLELISM_THREADS, and DP_INTER_OP_PARALLELISM_THREADS. See https://deepmd.rtfd.io/parallelism/ for more information.
+[2026-03-10 11:56:33,504] DEEPMD INFO    # ---------------output of dp test--------------- 
+[2026-03-10 11:56:33,504] DEEPMD INFO    # testing system : ../20260310/11
+[2026-03-10 11:56:41,251] DEEPMD INFO    # number of test data : 16 
+[2026-03-10 11:56:41,252] DEEPMD INFO    Energy MAE         : 2.789319e-01 eV
+[2026-03-10 11:56:41,252] DEEPMD INFO    Energy RMSE        : 3.460270e-01 eV
+[2026-03-10 11:56:41,252] DEEPMD INFO    Energy MAE/Natoms  : 2.535745e-02 eV
+[2026-03-10 11:56:41,252] DEEPMD INFO    Energy RMSE/Natoms : 3.145700e-02 eV
+[2026-03-10 11:56:41,252] DEEPMD INFO    Force  MAE         : 7.378905e-02 eV/A
+[2026-03-10 11:56:41,252] DEEPMD INFO    Force  RMSE        : 1.281663e-01 eV/A
+[2026-03-10 11:56:41,252] DEEPMD INFO    Virial MAE         : 3.879122e-01 eV
+[2026-03-10 11:56:41,252] DEEPMD INFO    Virial RMSE        : 6.066584e-01 eV
+[2026-03-10 11:56:41,252] DEEPMD INFO    Virial MAE/Natoms  : 3.526475e-02 eV
+[2026-03-10 11:56:41,252] DEEPMD INFO    Virial RMSE/Natoms : 5.515077e-02 eV
+[2026-03-10 11:56:41,252] DEEPMD INFO    # ----------------------------------------------- 
+[2026-03-10 11:56:41,252] DEEPMD INFO    # ---------------output of dp test--------------- 
+[2026-03-10 11:56:41,252] DEEPMD INFO    # testing system : ../20260310/27
+[2026-03-10 11:56:44,982] DEEPMD INFO    # number of test data : 3 
+[2026-03-10 11:56:44,983] DEEPMD INFO    Energy MAE         : 4.069268e-01 eV
+[2026-03-10 11:56:44,983] DEEPMD INFO    Energy RMSE        : 5.034162e-01 eV
+[2026-03-10 11:56:44,983] DEEPMD INFO    Energy MAE/Natoms  : 1.507136e-02 eV
+[2026-03-10 11:56:44,983] DEEPMD INFO    Energy RMSE/Natoms : 1.864505e-02 eV
+[2026-03-10 11:56:44,983] DEEPMD INFO    Force  MAE         : 7.326711e-02 eV/A
+[2026-03-10 11:56:44,983] DEEPMD INFO    Force  RMSE        : 1.139334e-01 eV/A
+[2026-03-10 11:56:44,983] DEEPMD INFO    Virial MAE         : 3.778256e-01 eV
+[2026-03-10 11:56:44,983] DEEPMD INFO    Virial RMSE        : 6.906685e-01 eV
+[2026-03-10 11:56:44,983] DEEPMD INFO    Virial MAE/Natoms  : 1.399354e-02 eV
+[2026-03-10 11:56:44,983] DEEPMD INFO    Virial RMSE/Natoms : 2.558031e-02 eV
+[2026-03-10 11:56:44,983] DEEPMD INFO    # ----------------------------------------------- 
+[2026-03-10 11:56:44,983] DEEPMD INFO    # ---------------output of dp test--------------- 
+[2026-03-10 11:56:44,983] DEEPMD INFO    # testing system : ../20260310/12
+[2026-03-10 11:56:52,231] DEEPMD INFO    # number of test data : 79 
+[2026-03-10 11:56:52,231] DEEPMD INFO    Energy MAE         : 1.911491e-01 eV
+[2026-03-10 11:56:52,231] DEEPMD INFO    Energy RMSE        : 2.339177e-01 eV
+[2026-03-10 11:56:52,231] DEEPMD INFO    Energy MAE/Natoms  : 1.592909e-02 eV
+[2026-03-10 11:56:52,231] DEEPMD INFO    Energy RMSE/Natoms : 1.949315e-02 eV
+[2026-03-10 11:56:52,231] DEEPMD INFO    Force  MAE         : 5.627842e-02 eV/A
+[2026-03-10 11:56:52,231] DEEPMD INFO    Force  RMSE        : 1.031910e-01 eV/A
+[2026-03-10 11:56:52,231] DEEPMD INFO    Virial MAE         : 4.501477e-01 eV
+[2026-03-10 11:56:52,231] DEEPMD INFO    Virial RMSE        : 9.013912e-01 eV
+[2026-03-10 11:56:52,231] DEEPMD INFO    Virial MAE/Natoms  : 3.751231e-02 eV
+[2026-03-10 11:56:52,231] DEEPMD INFO    Virial RMSE/Natoms : 7.511594e-02 eV
+[2026-03-10 11:56:52,231] DEEPMD INFO    # ----------------------------------------------- 
+[2026-03-10 11:56:52,231] DEEPMD INFO    # ---------------output of dp test--------------- 
+[2026-03-10 11:56:52,231] DEEPMD INFO    # testing system : ../20260310/15
+[2026-03-10 11:56:57,377] DEEPMD INFO    # number of test data : 10 
+[2026-03-10 11:56:57,377] DEEPMD INFO    Energy MAE         : 2.268483e-01 eV
+[2026-03-10 11:56:57,377] DEEPMD INFO    Energy RMSE        : 2.746543e-01 eV
+[2026-03-10 11:56:57,377] DEEPMD INFO    Energy MAE/Natoms  : 1.512322e-02 eV
+[2026-03-10 11:56:57,377] DEEPMD INFO    Energy RMSE/Natoms : 1.831028e-02 eV
+[2026-03-10 11:56:57,377] DEEPMD INFO    Force  MAE         : 7.609021e-02 eV/A
+[2026-03-10 11:56:57,377] DEEPMD INFO    Force  RMSE        : 1.186424e-01 eV/A
+[2026-03-10 11:56:57,377] DEEPMD INFO    Virial MAE         : 4.578021e-01 eV
+[2026-03-10 11:56:57,377] DEEPMD INFO    Virial RMSE        : 7.266308e-01 eV
+[2026-03-10 11:56:57,377] DEEPMD INFO    Virial MAE/Natoms  : 3.052014e-02 eV
+[2026-03-10 11:56:57,377] DEEPMD INFO    Virial RMSE/Natoms : 4.844206e-02 eV
+[2026-03-10 11:56:57,377] DEEPMD INFO    # ----------------------------------------------- 
+[2026-03-10 11:56:57,377] DEEPMD INFO    # ---------------output of dp test--------------- 
+[2026-03-10 11:56:57,377] DEEPMD INFO    # testing system : ../20260310/19
+[2026-03-10 11:57:03,957] DEEPMD INFO    # number of test data : 8 
+[2026-03-10 11:57:03,957] DEEPMD INFO    Energy MAE         : 2.354980e-01 eV
+[2026-03-10 11:57:03,958] DEEPMD INFO    Energy RMSE        : 3.208203e-01 eV
+[2026-03-10 11:57:03,958] DEEPMD INFO    Energy MAE/Natoms  : 1.239463e-02 eV
+[2026-03-10 11:57:03,958] DEEPMD INFO    Energy RMSE/Natoms : 1.688528e-02 eV
+[2026-03-10 11:57:03,958] DEEPMD INFO    Force  MAE         : 1.030001e-01 eV/A
+[2026-03-10 11:57:03,958] DEEPMD INFO    Force  RMSE        : 1.673654e-01 eV/A
+[2026-03-10 11:57:03,958] DEEPMD INFO    Virial MAE         : 7.221359e-01 eV
+[2026-03-10 11:57:03,958] DEEPMD INFO    Virial RMSE        : 1.054871e+00 eV
+[2026-03-10 11:57:03,958] DEEPMD INFO    Virial MAE/Natoms  : 3.800715e-02 eV
+[2026-03-10 11:57:03,958] DEEPMD INFO    Virial RMSE/Natoms : 5.551954e-02 eV
+[2026-03-10 11:57:03,958] DEEPMD INFO    # ----------------------------------------------- 
+[2026-03-10 11:57:03,958] DEEPMD INFO    # ---------------output of dp test--------------- 
+[2026-03-10 11:57:03,958] DEEPMD INFO    # testing system : ../20260310/36
+[2026-03-10 11:57:04,226] DEEPMD INFO    Adjust batch size from 1024 to 2048
+[2026-03-10 11:57:04,846] DEEPMD INFO    Adjust batch size from 2048 to 4096
+[2026-03-10 11:57:05,172] DEEPMD INFO    # number of test data : 125 
+[2026-03-10 11:57:05,172] DEEPMD INFO    Energy MAE         : 6.809009e-01 eV
+[2026-03-10 11:57:05,172] DEEPMD INFO    Energy RMSE        : 8.670882e-01 eV
+[2026-03-10 11:57:05,173] DEEPMD INFO    Energy MAE/Natoms  : 1.891391e-02 eV
+[2026-03-10 11:57:05,173] DEEPMD INFO    Energy RMSE/Natoms : 2.408578e-02 eV
+[2026-03-10 11:57:05,173] DEEPMD INFO    Force  MAE         : 9.464805e-02 eV/A
+[2026-03-10 11:57:05,173] DEEPMD INFO    Force  RMSE        : 1.414449e-01 eV/A
+[2026-03-10 11:57:05,173] DEEPMD INFO    Virial MAE         : 1.065502e+00 eV
+[2026-03-10 11:57:05,173] DEEPMD INFO    Virial RMSE        : 2.096564e+00 eV
+[2026-03-10 11:57:05,173] DEEPMD INFO    Virial MAE/Natoms  : 2.959728e-02 eV
+[2026-03-10 11:57:05,173] DEEPMD INFO    Virial RMSE/Natoms : 5.823789e-02 eV
+[2026-03-10 11:57:05,173] DEEPMD INFO    # ----------------------------------------------- 
+[2026-03-10 11:57:05,173] DEEPMD INFO    # ---------------output of dp test--------------- 
+[2026-03-10 11:57:05,173] DEEPMD INFO    # testing system : ../20260310/23
+[2026-03-10 11:57:05,251] DEEPMD INFO    # number of test data : 3 
+[2026-03-10 11:57:05,251] DEEPMD INFO    Energy MAE         : 6.689156e-01 eV
+[2026-03-10 11:57:05,251] DEEPMD INFO    Energy RMSE        : 8.219227e-01 eV
+[2026-03-10 11:57:05,251] DEEPMD INFO    Energy MAE/Natoms  : 2.908329e-02 eV
+[2026-03-10 11:57:05,251] DEEPMD INFO    Energy RMSE/Natoms : 3.573577e-02 eV
+[2026-03-10 11:57:05,252] DEEPMD INFO    Force  MAE         : 8.563012e-02 eV/A
+[2026-03-10 11:57:05,252] DEEPMD INFO    Force  RMSE        : 1.447797e-01 eV/A
+[2026-03-10 11:57:05,252] DEEPMD INFO    Virial MAE         : 1.091170e+00 eV
+[2026-03-10 11:57:05,252] DEEPMD INFO    Virial RMSE        : 1.614971e+00 eV
+[2026-03-10 11:57:05,252] DEEPMD INFO    Virial MAE/Natoms  : 4.744218e-02 eV
+[2026-03-10 11:57:05,252] DEEPMD INFO    Virial RMSE/Natoms : 7.021615e-02 eV
+[2026-03-10 11:57:05,252] DEEPMD INFO    # ----------------------------------------------- 
+[2026-03-10 11:57:05,252] DEEPMD INFO    # ---------------output of dp test--------------- 
+[2026-03-10 11:57:05,252] DEEPMD INFO    # testing system : ../20260310/24
+[2026-03-10 11:57:06,142] DEEPMD INFO    # number of test data : 102 
+[2026-03-10 11:57:06,142] DEEPMD INFO    Energy MAE         : 5.193879e-01 eV
+[2026-03-10 11:57:06,142] DEEPMD INFO    Energy RMSE        : 7.026624e-01 eV
+[2026-03-10 11:57:06,142] DEEPMD INFO    Energy MAE/Natoms  : 2.164116e-02 eV
+[2026-03-10 11:57:06,142] DEEPMD INFO    Energy RMSE/Natoms : 2.927760e-02 eV
+[2026-03-10 11:57:06,142] DEEPMD INFO    Force  MAE         : 7.602614e-02 eV/A
+[2026-03-10 11:57:06,142] DEEPMD INFO    Force  RMSE        : 1.145996e-01 eV/A
+[2026-03-10 11:57:06,142] DEEPMD INFO    Virial MAE         : 6.281772e-01 eV
+[2026-03-10 11:57:06,142] DEEPMD INFO    Virial RMSE        : 1.358689e+00 eV
+[2026-03-10 11:57:06,142] DEEPMD INFO    Virial MAE/Natoms  : 2.617405e-02 eV
+[2026-03-10 11:57:06,142] DEEPMD INFO    Virial RMSE/Natoms : 5.661203e-02 eV
+[2026-03-10 11:57:06,142] DEEPMD INFO    # ----------------------------------------------- 
+[2026-03-10 11:57:06,142] DEEPMD INFO    # ---------------output of dp test--------------- 
+[2026-03-10 11:57:06,142] DEEPMD INFO    # testing system : ../20260310/31
+[2026-03-10 11:57:06,229] DEEPMD INFO    # number of test data : 5 
+[2026-03-10 11:57:06,229] DEEPMD INFO    Energy MAE         : 7.621991e-01 eV
+[2026-03-10 11:57:06,229] DEEPMD INFO    Energy RMSE        : 9.953813e-01 eV
+[2026-03-10 11:57:06,229] DEEPMD INFO    Energy MAE/Natoms  : 2.458707e-02 eV
+[2026-03-10 11:57:06,229] DEEPMD INFO    Energy RMSE/Natoms : 3.210907e-02 eV
+[2026-03-10 11:57:06,229] DEEPMD INFO    Force  MAE         : 8.441160e-02 eV/A
+[2026-03-10 11:57:06,229] DEEPMD INFO    Force  RMSE        : 1.416278e-01 eV/A
+[2026-03-10 11:57:06,229] DEEPMD INFO    Virial MAE         : 1.277734e+00 eV
+[2026-03-10 11:57:06,230] DEEPMD INFO    Virial RMSE        : 2.011990e+00 eV
+[2026-03-10 11:57:06,230] DEEPMD INFO    Virial MAE/Natoms  : 4.121724e-02 eV
+[2026-03-10 11:57:06,230] DEEPMD INFO    Virial RMSE/Natoms : 6.490291e-02 eV
+[2026-03-10 11:57:06,230] DEEPMD INFO    # ----------------------------------------------- 
+[2026-03-10 11:57:06,230] DEEPMD INFO    # ---------------output of dp test--------------- 
+[2026-03-10 11:57:06,230] DEEPMD INFO    # testing system : ../20260310/60
+[2026-03-10 11:57:06,303] DEEPMD INFO    # number of test data : 2 
+[2026-03-10 11:57:06,303] DEEPMD INFO    Energy MAE         : 4.472541e-01 eV
+[2026-03-10 11:57:06,303] DEEPMD INFO    Energy RMSE        : 4.649409e-01 eV
+[2026-03-10 11:57:06,303] DEEPMD INFO    Energy MAE/Natoms  : 7.454235e-03 eV
+[2026-03-10 11:57:06,303] DEEPMD INFO    Energy RMSE/Natoms : 7.749015e-03 eV
+[2026-03-10 11:57:06,303] DEEPMD INFO    Force  MAE         : 6.159186e-02 eV/A
+[2026-03-10 11:57:06,303] DEEPMD INFO    Force  RMSE        : 9.121254e-02 eV/A
+[2026-03-10 11:57:06,303] DEEPMD INFO    Virial MAE         : 7.406267e-01 eV
+[2026-03-10 11:57:06,303] DEEPMD INFO    Virial RMSE        : 1.249762e+00 eV
+[2026-03-10 11:57:06,303] DEEPMD INFO    Virial MAE/Natoms  : 1.234378e-02 eV
+[2026-03-10 11:57:06,303] DEEPMD INFO    Virial RMSE/Natoms : 2.082936e-02 eV
+[2026-03-10 11:57:06,303] DEEPMD INFO    # ----------------------------------------------- 
+[2026-03-10 11:57:06,303] DEEPMD INFO    # ---------------output of dp test--------------- 
+[2026-03-10 11:57:06,303] DEEPMD INFO    # testing system : ../20260310/20
+[2026-03-10 11:57:06,518] DEEPMD INFO    # number of test data : 46 
+[2026-03-10 11:57:06,518] DEEPMD INFO    Energy MAE         : 4.605730e-01 eV
+[2026-03-10 11:57:06,518] DEEPMD INFO    Energy RMSE        : 6.674027e-01 eV
+[2026-03-10 11:57:06,519] DEEPMD INFO    Energy MAE/Natoms  : 2.302865e-02 eV
+[2026-03-10 11:57:06,519] DEEPMD INFO    Energy RMSE/Natoms : 3.337014e-02 eV
+[2026-03-10 11:57:06,519] DEEPMD INFO    Force  MAE         : 7.733594e-02 eV/A
+[2026-03-10 11:57:06,519] DEEPMD INFO    Force  RMSE        : 1.340033e-01 eV/A
+[2026-03-10 11:57:06,519] DEEPMD INFO    Virial MAE         : 7.076714e-01 eV
+[2026-03-10 11:57:06,519] DEEPMD INFO    Virial RMSE        : 1.256636e+00 eV
+[2026-03-10 11:57:06,519] DEEPMD INFO    Virial MAE/Natoms  : 3.538357e-02 eV
+[2026-03-10 11:57:06,519] DEEPMD INFO    Virial RMSE/Natoms : 6.283179e-02 eV
+[2026-03-10 11:57:06,519] DEEPMD INFO    # ----------------------------------------------- 
+[2026-03-10 11:57:06,519] DEEPMD INFO    # ---------------output of dp test--------------- 
+[2026-03-10 11:57:06,519] DEEPMD INFO    # testing system : ../20260310/7
+[2026-03-10 11:57:06,685] DEEPMD INFO    # number of test data : 1 
+[2026-03-10 11:57:06,685] DEEPMD INFO    Energy MAE         : 1.806546e-01 eV
+[2026-03-10 11:57:06,685] DEEPMD INFO    Energy RMSE        : 1.806546e-01 eV
+[2026-03-10 11:57:06,686] DEEPMD INFO    Energy MAE/Natoms  : 2.580780e-02 eV
+[2026-03-10 11:57:06,686] DEEPMD INFO    Energy RMSE/Natoms : 2.580780e-02 eV
+[2026-03-10 11:57:06,686] DEEPMD INFO    Force  MAE         : 2.617515e-02 eV/A
+[2026-03-10 11:57:06,686] DEEPMD INFO    Force  RMSE        : 5.475506e-02 eV/A
+[2026-03-10 11:57:06,686] DEEPMD INFO    Virial MAE         : 2.451406e-01 eV
+[2026-03-10 11:57:06,686] DEEPMD INFO    Virial RMSE        : 4.504478e-01 eV
+[2026-03-10 11:57:06,686] DEEPMD INFO    Virial MAE/Natoms  : 3.502008e-02 eV
+[2026-03-10 11:57:06,686] DEEPMD INFO    Virial RMSE/Natoms : 6.434968e-02 eV
+[2026-03-10 11:57:06,686] DEEPMD INFO    # ----------------------------------------------- 
+[2026-03-10 11:57:06,686] DEEPMD INFO    # ---------------output of dp test--------------- 
+[2026-03-10 11:57:06,686] DEEPMD INFO    # testing system : ../20260310/6
+[2026-03-10 11:57:06,758] DEEPMD INFO    # number of test data : 21 
+[2026-03-10 11:57:06,758] DEEPMD INFO    Energy MAE         : 1.523784e-01 eV
+[2026-03-10 11:57:06,758] DEEPMD INFO    Energy RMSE        : 1.962439e-01 eV
+[2026-03-10 11:57:06,758] DEEPMD INFO    Energy MAE/Natoms  : 2.539640e-02 eV
+[2026-03-10 11:57:06,758] DEEPMD INFO    Energy RMSE/Natoms : 3.270731e-02 eV
+[2026-03-10 11:57:06,759] DEEPMD INFO    Force  MAE         : 3.794824e-02 eV/A
+[2026-03-10 11:57:06,759] DEEPMD INFO    Force  RMSE        : 9.803604e-02 eV/A
+[2026-03-10 11:57:06,759] DEEPMD INFO    Virial MAE         : 2.618076e-01 eV
+[2026-03-10 11:57:06,759] DEEPMD INFO    Virial RMSE        : 4.942950e-01 eV
+[2026-03-10 11:57:06,759] DEEPMD INFO    Virial MAE/Natoms  : 4.363460e-02 eV
+[2026-03-10 11:57:06,759] DEEPMD INFO    Virial RMSE/Natoms : 8.238249e-02 eV
+[2026-03-10 11:57:06,759] DEEPMD INFO    # ----------------------------------------------- 
+[2026-03-10 11:57:06,759] DEEPMD INFO    # ---------------output of dp test--------------- 
+[2026-03-10 11:57:06,759] DEEPMD INFO    # testing system : ../20260310/13
+[2026-03-10 11:57:06,830] DEEPMD INFO    # number of test data : 6 
+[2026-03-10 11:57:06,830] DEEPMD INFO    Energy MAE         : 4.838144e-01 eV
+[2026-03-10 11:57:06,830] DEEPMD INFO    Energy RMSE        : 7.078384e-01 eV
+[2026-03-10 11:57:06,830] DEEPMD INFO    Energy MAE/Natoms  : 3.721649e-02 eV
+[2026-03-10 11:57:06,830] DEEPMD INFO    Energy RMSE/Natoms : 5.444910e-02 eV
+[2026-03-10 11:57:06,830] DEEPMD INFO    Force  MAE         : 8.984972e-02 eV/A
+[2026-03-10 11:57:06,830] DEEPMD INFO    Force  RMSE        : 1.687461e-01 eV/A
+[2026-03-10 11:57:06,830] DEEPMD INFO    Virial MAE         : 4.305050e-01 eV
+[2026-03-10 11:57:06,830] DEEPMD INFO    Virial RMSE        : 6.596480e-01 eV
+[2026-03-10 11:57:06,830] DEEPMD INFO    Virial MAE/Natoms  : 3.311577e-02 eV
+[2026-03-10 11:57:06,830] DEEPMD INFO    Virial RMSE/Natoms : 5.074216e-02 eV
+[2026-03-10 11:57:06,830] DEEPMD INFO    # ----------------------------------------------- 
+[2026-03-10 11:57:06,830] DEEPMD INFO    # ---------------output of dp test--------------- 
+[2026-03-10 11:57:06,830] DEEPMD INFO    # testing system : ../20260310/35
+[2026-03-10 11:57:06,916] DEEPMD INFO    # number of test data : 3 
+[2026-03-10 11:57:06,916] DEEPMD INFO    Energy MAE         : 7.553298e-01 eV
+[2026-03-10 11:57:06,916] DEEPMD INFO    Energy RMSE        : 8.169464e-01 eV
+[2026-03-10 11:57:06,916] DEEPMD INFO    Energy MAE/Natoms  : 2.158085e-02 eV
+[2026-03-10 11:57:06,916] DEEPMD INFO    Energy RMSE/Natoms : 2.334133e-02 eV
+[2026-03-10 11:57:06,916] DEEPMD INFO    Force  MAE         : 5.301573e-02 eV/A
+[2026-03-10 11:57:06,916] DEEPMD INFO    Force  RMSE        : 7.876082e-02 eV/A
+[2026-03-10 11:57:06,916] DEEPMD INFO    Virial MAE         : 5.034735e-01 eV
+[2026-03-10 11:57:06,916] DEEPMD INFO    Virial RMSE        : 9.829845e-01 eV
+[2026-03-10 11:57:06,916] DEEPMD INFO    Virial MAE/Natoms  : 1.438496e-02 eV
+[2026-03-10 11:57:06,916] DEEPMD INFO    Virial RMSE/Natoms : 2.808527e-02 eV
+[2026-03-10 11:57:06,916] DEEPMD INFO    # ----------------------------------------------- 
+[2026-03-10 11:57:06,916] DEEPMD INFO    # ---------------output of dp test--------------- 
+[2026-03-10 11:57:06,916] DEEPMD INFO    # testing system : ../20260310/4
+[2026-03-10 11:57:06,983] DEEPMD INFO    # number of test data : 2 
+[2026-03-10 11:57:06,984] DEEPMD INFO    Energy MAE         : 2.953609e-02 eV
+[2026-03-10 11:57:06,984] DEEPMD INFO    Energy RMSE        : 3.170439e-02 eV
+[2026-03-10 11:57:06,984] DEEPMD INFO    Energy MAE/Natoms  : 7.384024e-03 eV
+[2026-03-10 11:57:06,984] DEEPMD INFO    Energy RMSE/Natoms : 7.926098e-03 eV
+[2026-03-10 11:57:06,984] DEEPMD INFO    Force  MAE         : 2.053395e-02 eV/A
+[2026-03-10 11:57:06,984] DEEPMD INFO    Force  RMSE        : 6.810131e-02 eV/A
+[2026-03-10 11:57:06,984] DEEPMD INFO    Virial MAE         : 1.642313e-01 eV
+[2026-03-10 11:57:06,984] DEEPMD INFO    Virial RMSE        : 3.337191e-01 eV
+[2026-03-10 11:57:06,984] DEEPMD INFO    Virial MAE/Natoms  : 4.105782e-02 eV
+[2026-03-10 11:57:06,984] DEEPMD INFO    Virial RMSE/Natoms : 8.342977e-02 eV
+[2026-03-10 11:57:06,984] DEEPMD INFO    # ----------------------------------------------- 
+[2026-03-10 11:57:06,984] DEEPMD INFO    # ---------------output of dp test--------------- 
+[2026-03-10 11:57:06,984] DEEPMD INFO    # testing system : ../20260310/33
+[2026-03-10 11:57:07,056] DEEPMD INFO    # number of test data : 3 
+[2026-03-10 11:57:07,056] DEEPMD INFO    Energy MAE         : 1.139351e+00 eV
+[2026-03-10 11:57:07,056] DEEPMD INFO    Energy RMSE        : 1.143145e+00 eV
+[2026-03-10 11:57:07,056] DEEPMD INFO    Energy MAE/Natoms  : 3.452577e-02 eV
+[2026-03-10 11:57:07,056] DEEPMD INFO    Energy RMSE/Natoms : 3.464077e-02 eV
+[2026-03-10 11:57:07,056] DEEPMD INFO    Force  MAE         : 8.174228e-02 eV/A
+[2026-03-10 11:57:07,056] DEEPMD INFO    Force  RMSE        : 1.455714e-01 eV/A
+[2026-03-10 11:57:07,056] DEEPMD INFO    Virial MAE         : 1.138003e+00 eV
+[2026-03-10 11:57:07,056] DEEPMD INFO    Virial RMSE        : 1.823024e+00 eV
+[2026-03-10 11:57:07,056] DEEPMD INFO    Virial MAE/Natoms  : 3.448495e-02 eV
+[2026-03-10 11:57:07,056] DEEPMD INFO    Virial RMSE/Natoms : 5.524316e-02 eV
+[2026-03-10 11:57:07,056] DEEPMD INFO    # ----------------------------------------------- 
+[2026-03-10 11:57:07,057] DEEPMD INFO    # ---------------output of dp test--------------- 
+[2026-03-10 11:57:07,057] DEEPMD INFO    # testing system : ../20260310/14
+[2026-03-10 11:57:07,218] DEEPMD INFO    # number of test data : 43 
+[2026-03-10 11:57:07,218] DEEPMD INFO    Energy MAE         : 3.535473e-01 eV
+[2026-03-10 11:57:07,218] DEEPMD INFO    Energy RMSE        : 5.146048e-01 eV
+[2026-03-10 11:57:07,218] DEEPMD INFO    Energy MAE/Natoms  : 2.525338e-02 eV
+[2026-03-10 11:57:07,218] DEEPMD INFO    Energy RMSE/Natoms : 3.675748e-02 eV
+[2026-03-10 11:57:07,218] DEEPMD INFO    Force  MAE         : 8.567783e-02 eV/A
+[2026-03-10 11:57:07,218] DEEPMD INFO    Force  RMSE        : 1.374141e-01 eV/A
+[2026-03-10 11:57:07,218] DEEPMD INFO    Virial MAE         : 5.323248e-01 eV
+[2026-03-10 11:57:07,218] DEEPMD INFO    Virial RMSE        : 1.085247e+00 eV
+[2026-03-10 11:57:07,219] DEEPMD INFO    Virial MAE/Natoms  : 3.802320e-02 eV
+[2026-03-10 11:57:07,219] DEEPMD INFO    Virial RMSE/Natoms : 7.751763e-02 eV
+[2026-03-10 11:57:07,219] DEEPMD INFO    # ----------------------------------------------- 
+[2026-03-10 11:57:07,219] DEEPMD INFO    # ---------------output of dp test--------------- 
+[2026-03-10 11:57:07,219] DEEPMD INFO    # testing system : ../20260310/17
+[2026-03-10 11:57:07,358] DEEPMD INFO    # number of test data : 30 
+[2026-03-10 11:57:07,358] DEEPMD INFO    Energy MAE         : 2.764583e-01 eV
+[2026-03-10 11:57:07,358] DEEPMD INFO    Energy RMSE        : 3.735115e-01 eV
+[2026-03-10 11:57:07,359] DEEPMD INFO    Energy MAE/Natoms  : 1.626225e-02 eV
+[2026-03-10 11:57:07,359] DEEPMD INFO    Energy RMSE/Natoms : 2.197127e-02 eV
+[2026-03-10 11:57:07,359] DEEPMD INFO    Force  MAE         : 9.446355e-02 eV/A
+[2026-03-10 11:57:07,359] DEEPMD INFO    Force  RMSE        : 1.509607e-01 eV/A
+[2026-03-10 11:57:07,359] DEEPMD INFO    Virial MAE         : 5.667383e-01 eV
+[2026-03-10 11:57:07,359] DEEPMD INFO    Virial RMSE        : 9.740138e-01 eV
+[2026-03-10 11:57:07,359] DEEPMD INFO    Virial MAE/Natoms  : 3.333755e-02 eV
+[2026-03-10 11:57:07,359] DEEPMD INFO    Virial RMSE/Natoms : 5.729493e-02 eV
+[2026-03-10 11:57:07,359] DEEPMD INFO    # ----------------------------------------------- 
+[2026-03-10 11:57:07,359] DEEPMD INFO    # ---------------output of dp test--------------- 
+[2026-03-10 11:57:07,359] DEEPMD INFO    # testing system : ../20260310/28
+[2026-03-10 11:57:07,729] DEEPMD INFO    # number of test data : 69 
+[2026-03-10 11:57:07,730] DEEPMD INFO    Energy MAE         : 5.338544e-01 eV
+[2026-03-10 11:57:07,730] DEEPMD INFO    Energy RMSE        : 6.629806e-01 eV
+[2026-03-10 11:57:07,730] DEEPMD INFO    Energy MAE/Natoms  : 1.906623e-02 eV
+[2026-03-10 11:57:07,730] DEEPMD INFO    Energy RMSE/Natoms : 2.367788e-02 eV
+[2026-03-10 11:57:07,730] DEEPMD INFO    Force  MAE         : 7.391118e-02 eV/A
+[2026-03-10 11:57:07,730] DEEPMD INFO    Force  RMSE        : 1.224034e-01 eV/A
+[2026-03-10 11:57:07,730] DEEPMD INFO    Virial MAE         : 7.850627e-01 eV
+[2026-03-10 11:57:07,730] DEEPMD INFO    Virial RMSE        : 1.504513e+00 eV
+[2026-03-10 11:57:07,730] DEEPMD INFO    Virial MAE/Natoms  : 2.803795e-02 eV
+[2026-03-10 11:57:07,730] DEEPMD INFO    Virial RMSE/Natoms : 5.373260e-02 eV
+[2026-03-10 11:57:07,730] DEEPMD INFO    # ----------------------------------------------- 
+[2026-03-10 11:57:07,730] DEEPMD INFO    # ---------------output of dp test--------------- 
+[2026-03-10 11:57:07,730] DEEPMD INFO    # testing system : ../20260310/10
+[2026-03-10 11:57:07,825] DEEPMD INFO    # number of test data : 36 
+[2026-03-10 11:57:07,825] DEEPMD INFO    Energy MAE         : 1.978877e-01 eV
+[2026-03-10 11:57:07,825] DEEPMD INFO    Energy RMSE        : 2.880241e-01 eV
+[2026-03-10 11:57:07,825] DEEPMD INFO    Energy MAE/Natoms  : 1.978877e-02 eV
+[2026-03-10 11:57:07,825] DEEPMD INFO    Energy RMSE/Natoms : 2.880241e-02 eV
+[2026-03-10 11:57:07,825] DEEPMD INFO    Force  MAE         : 4.769105e-02 eV/A
+[2026-03-10 11:57:07,826] DEEPMD INFO    Force  RMSE        : 9.855050e-02 eV/A
+[2026-03-10 11:57:07,826] DEEPMD INFO    Virial MAE         : 3.834317e-01 eV
+[2026-03-10 11:57:07,826] DEEPMD INFO    Virial RMSE        : 7.204503e-01 eV
+[2026-03-10 11:57:07,826] DEEPMD INFO    Virial MAE/Natoms  : 3.834317e-02 eV
+[2026-03-10 11:57:07,826] DEEPMD INFO    Virial RMSE/Natoms : 7.204503e-02 eV
+[2026-03-10 11:57:07,826] DEEPMD INFO    # ----------------------------------------------- 
+[2026-03-10 11:57:07,826] DEEPMD INFO    # ---------------output of dp test--------------- 
+[2026-03-10 11:57:07,826] DEEPMD INFO    # testing system : ../20260310/9
+[2026-03-10 11:57:07,949] DEEPMD INFO    # number of test data : 53 
+[2026-03-10 11:57:07,949] DEEPMD INFO    Energy MAE         : 1.786892e-01 eV
+[2026-03-10 11:57:07,949] DEEPMD INFO    Energy RMSE        : 2.081135e-01 eV
+[2026-03-10 11:57:07,949] DEEPMD INFO    Energy MAE/Natoms  : 1.985436e-02 eV
+[2026-03-10 11:57:07,950] DEEPMD INFO    Energy RMSE/Natoms : 2.312372e-02 eV
+[2026-03-10 11:57:07,950] DEEPMD INFO    Force  MAE         : 4.778967e-02 eV/A
+[2026-03-10 11:57:07,950] DEEPMD INFO    Force  RMSE        : 9.437526e-02 eV/A
+[2026-03-10 11:57:07,950] DEEPMD INFO    Virial MAE         : 3.558453e-01 eV
+[2026-03-10 11:57:07,950] DEEPMD INFO    Virial RMSE        : 7.470041e-01 eV
+[2026-03-10 11:57:07,950] DEEPMD INFO    Virial MAE/Natoms  : 3.953837e-02 eV
+[2026-03-10 11:57:07,950] DEEPMD INFO    Virial RMSE/Natoms : 8.300046e-02 eV
+[2026-03-10 11:57:07,950] DEEPMD INFO    # ----------------------------------------------- 
+[2026-03-10 11:57:07,950] DEEPMD INFO    # ---------------output of dp test--------------- 
+[2026-03-10 11:57:07,950] DEEPMD INFO    # testing system : ../20260310/37
+[2026-03-10 11:57:08,020] DEEPMD INFO    # number of test data : 3 
+[2026-03-10 11:57:08,020] DEEPMD INFO    Energy MAE         : 1.763542e-01 eV
+[2026-03-10 11:57:08,020] DEEPMD INFO    Energy RMSE        : 1.858695e-01 eV
+[2026-03-10 11:57:08,020] DEEPMD INFO    Energy MAE/Natoms  : 4.766330e-03 eV
+[2026-03-10 11:57:08,021] DEEPMD INFO    Energy RMSE/Natoms : 5.023499e-03 eV
+[2026-03-10 11:57:08,021] DEEPMD INFO    Force  MAE         : 1.031240e-01 eV/A
+[2026-03-10 11:57:08,021] DEEPMD INFO    Force  RMSE        : 1.667704e-01 eV/A
+[2026-03-10 11:57:08,021] DEEPMD INFO    Virial MAE         : 7.800903e-01 eV
+[2026-03-10 11:57:08,021] DEEPMD INFO    Virial RMSE        : 1.031653e+00 eV
+[2026-03-10 11:57:08,021] DEEPMD INFO    Virial MAE/Natoms  : 2.108352e-02 eV
+[2026-03-10 11:57:08,021] DEEPMD INFO    Virial RMSE/Natoms : 2.788251e-02 eV
+[2026-03-10 11:57:08,021] DEEPMD INFO    # ----------------------------------------------- 
+[2026-03-10 11:57:08,021] DEEPMD INFO    # ---------------output of dp test--------------- 
+[2026-03-10 11:57:08,021] DEEPMD INFO    # testing system : ../20260310/29
+[2026-03-10 11:57:08,114] DEEPMD INFO    # number of test data : 12 
+[2026-03-10 11:57:08,114] DEEPMD INFO    Energy MAE         : 5.258545e-01 eV
+[2026-03-10 11:57:08,114] DEEPMD INFO    Energy RMSE        : 7.370870e-01 eV
+[2026-03-10 11:57:08,115] DEEPMD INFO    Energy MAE/Natoms  : 1.813291e-02 eV
+[2026-03-10 11:57:08,115] DEEPMD INFO    Energy RMSE/Natoms : 2.541679e-02 eV
+[2026-03-10 11:57:08,115] DEEPMD INFO    Force  MAE         : 8.634016e-02 eV/A
+[2026-03-10 11:57:08,115] DEEPMD INFO    Force  RMSE        : 1.270907e-01 eV/A
+[2026-03-10 11:57:08,115] DEEPMD INFO    Virial MAE         : 7.327783e-01 eV
+[2026-03-10 11:57:08,115] DEEPMD INFO    Virial RMSE        : 1.218600e+00 eV
+[2026-03-10 11:57:08,115] DEEPMD INFO    Virial MAE/Natoms  : 2.526822e-02 eV
+[2026-03-10 11:57:08,115] DEEPMD INFO    Virial RMSE/Natoms : 4.202068e-02 eV
+[2026-03-10 11:57:08,115] DEEPMD INFO    # ----------------------------------------------- 
+[2026-03-10 11:57:08,115] DEEPMD INFO    # ---------------output of dp test--------------- 
+[2026-03-10 11:57:08,115] DEEPMD INFO    # testing system : ../20260310/8
+[2026-03-10 11:57:08,190] DEEPMD INFO    # number of test data : 23 
+[2026-03-10 11:57:08,191] DEEPMD INFO    Energy MAE         : 1.748897e-01 eV
+[2026-03-10 11:57:08,191] DEEPMD INFO    Energy RMSE        : 2.100045e-01 eV
+[2026-03-10 11:57:08,191] DEEPMD INFO    Energy MAE/Natoms  : 2.186122e-02 eV
+[2026-03-10 11:57:08,191] DEEPMD INFO    Energy RMSE/Natoms : 2.625057e-02 eV
+[2026-03-10 11:57:08,191] DEEPMD INFO    Force  MAE         : 4.556739e-02 eV/A
+[2026-03-10 11:57:08,191] DEEPMD INFO    Force  RMSE        : 1.069111e-01 eV/A
+[2026-03-10 11:57:08,191] DEEPMD INFO    Virial MAE         : 3.403313e-01 eV
+[2026-03-10 11:57:08,191] DEEPMD INFO    Virial RMSE        : 6.982548e-01 eV
+[2026-03-10 11:57:08,191] DEEPMD INFO    Virial MAE/Natoms  : 4.254141e-02 eV
+[2026-03-10 11:57:08,191] DEEPMD INFO    Virial RMSE/Natoms : 8.728185e-02 eV
+[2026-03-10 11:57:08,191] DEEPMD INFO    # ----------------------------------------------- 
+[2026-03-10 11:57:08,191] DEEPMD INFO    # ---------------output of dp test--------------- 
+[2026-03-10 11:57:08,191] DEEPMD INFO    # testing system : ../20260310/18
+[2026-03-10 11:57:08,440] DEEPMD INFO    # number of test data : 69 
+[2026-03-10 11:57:08,440] DEEPMD INFO    Energy MAE         : 4.879572e-01 eV
+[2026-03-10 11:57:08,440] DEEPMD INFO    Energy RMSE        : 6.035326e-01 eV
+[2026-03-10 11:57:08,440] DEEPMD INFO    Energy MAE/Natoms  : 2.710873e-02 eV
+[2026-03-10 11:57:08,440] DEEPMD INFO    Energy RMSE/Natoms : 3.352959e-02 eV
+[2026-03-10 11:57:08,440] DEEPMD INFO    Force  MAE         : 8.149149e-02 eV/A
+[2026-03-10 11:57:08,440] DEEPMD INFO    Force  RMSE        : 1.389048e-01 eV/A
+[2026-03-10 11:57:08,440] DEEPMD INFO    Virial MAE         : 7.705826e-01 eV
+[2026-03-10 11:57:08,440] DEEPMD INFO    Virial RMSE        : 1.422904e+00 eV
+[2026-03-10 11:57:08,440] DEEPMD INFO    Virial MAE/Natoms  : 4.281014e-02 eV
+[2026-03-10 11:57:08,440] DEEPMD INFO    Virial RMSE/Natoms : 7.905025e-02 eV
+[2026-03-10 11:57:08,440] DEEPMD INFO    # ----------------------------------------------- 
+[2026-03-10 11:57:08,440] DEEPMD INFO    # ---------------output of dp test--------------- 
+[2026-03-10 11:57:08,441] DEEPMD INFO    # testing system : ../20260310/80
+[2026-03-10 11:57:08,513] DEEPMD INFO    # number of test data : 1 
+[2026-03-10 11:57:08,513] DEEPMD INFO    Energy MAE         : 1.805947e+00 eV
+[2026-03-10 11:57:08,513] DEEPMD INFO    Energy RMSE        : 1.805947e+00 eV
+[2026-03-10 11:57:08,513] DEEPMD INFO    Energy MAE/Natoms  : 2.257434e-02 eV
+[2026-03-10 11:57:08,513] DEEPMD INFO    Energy RMSE/Natoms : 2.257434e-02 eV
+[2026-03-10 11:57:08,513] DEEPMD INFO    Force  MAE         : 5.378874e-02 eV/A
+[2026-03-10 11:57:08,513] DEEPMD INFO    Force  RMSE        : 7.338191e-02 eV/A
+[2026-03-10 11:57:08,513] DEEPMD INFO    Virial MAE         : 1.317597e+00 eV
+[2026-03-10 11:57:08,513] DEEPMD INFO    Virial RMSE        : 2.082219e+00 eV
+[2026-03-10 11:57:08,513] DEEPMD INFO    Virial MAE/Natoms  : 1.646996e-02 eV
+[2026-03-10 11:57:08,513] DEEPMD INFO    Virial RMSE/Natoms : 2.602774e-02 eV
+[2026-03-10 11:57:08,513] DEEPMD INFO    # ----------------------------------------------- 
+[2026-03-10 11:57:08,513] DEEPMD INFO    # ---------------output of dp test--------------- 
+[2026-03-10 11:57:08,513] DEEPMD INFO    # testing system : ../20260310/5
+[2026-03-10 11:57:08,583] DEEPMD INFO    # number of test data : 13 
+[2026-03-10 11:57:08,583] DEEPMD INFO    Energy MAE         : 1.566876e-01 eV
+[2026-03-10 11:57:08,584] DEEPMD INFO    Energy RMSE        : 2.317030e-01 eV
+[2026-03-10 11:57:08,584] DEEPMD INFO    Energy MAE/Natoms  : 3.133751e-02 eV
+[2026-03-10 11:57:08,584] DEEPMD INFO    Energy RMSE/Natoms : 4.634060e-02 eV
+[2026-03-10 11:57:08,584] DEEPMD INFO    Force  MAE         : 3.066805e-02 eV/A
+[2026-03-10 11:57:08,584] DEEPMD INFO    Force  RMSE        : 8.267876e-02 eV/A
+[2026-03-10 11:57:08,584] DEEPMD INFO    Virial MAE         : 1.719500e-01 eV
+[2026-03-10 11:57:08,584] DEEPMD INFO    Virial RMSE        : 3.456573e-01 eV
+[2026-03-10 11:57:08,584] DEEPMD INFO    Virial MAE/Natoms  : 3.439000e-02 eV
+[2026-03-10 11:57:08,584] DEEPMD INFO    Virial RMSE/Natoms : 6.913145e-02 eV
+[2026-03-10 11:57:08,584] DEEPMD INFO    # ----------------------------------------------- 
+[2026-03-10 11:57:08,584] DEEPMD INFO    # ---------------output of dp test--------------- 
+[2026-03-10 11:57:08,584] DEEPMD INFO    # testing system : ../20260310/21
+[2026-03-10 11:57:08,728] DEEPMD INFO    # number of test data : 20 
+[2026-03-10 11:57:08,728] DEEPMD INFO    Energy MAE         : 4.592752e-01 eV
+[2026-03-10 11:57:08,728] DEEPMD INFO    Energy RMSE        : 5.732060e-01 eV
+[2026-03-10 11:57:08,729] DEEPMD INFO    Energy MAE/Natoms  : 2.187025e-02 eV
+[2026-03-10 11:57:08,729] DEEPMD INFO    Energy RMSE/Natoms : 2.729552e-02 eV
+[2026-03-10 11:57:08,729] DEEPMD INFO    Force  MAE         : 7.695714e-02 eV/A
+[2026-03-10 11:57:08,729] DEEPMD INFO    Force  RMSE        : 1.312387e-01 eV/A
+[2026-03-10 11:57:08,729] DEEPMD INFO    Virial MAE         : 4.328096e-01 eV
+[2026-03-10 11:57:08,729] DEEPMD INFO    Virial RMSE        : 1.000518e+00 eV
+[2026-03-10 11:57:08,729] DEEPMD INFO    Virial MAE/Natoms  : 2.060998e-02 eV
+[2026-03-10 11:57:08,729] DEEPMD INFO    Virial RMSE/Natoms : 4.764372e-02 eV
+[2026-03-10 11:57:08,729] DEEPMD INFO    # ----------------------------------------------- 
+[2026-03-10 11:57:08,729] DEEPMD INFO    # ---------------output of dp test--------------- 
+[2026-03-10 11:57:08,729] DEEPMD INFO    # testing system : ../20260310/38
+[2026-03-10 11:57:08,914] DEEPMD INFO    # number of test data : 20 
+[2026-03-10 11:57:08,914] DEEPMD INFO    Energy MAE         : 4.733707e-01 eV
+[2026-03-10 11:57:08,914] DEEPMD INFO    Energy RMSE        : 5.314458e-01 eV
+[2026-03-10 11:57:08,914] DEEPMD INFO    Energy MAE/Natoms  : 1.245712e-02 eV
+[2026-03-10 11:57:08,914] DEEPMD INFO    Energy RMSE/Natoms : 1.398541e-02 eV
+[2026-03-10 11:57:08,914] DEEPMD INFO    Force  MAE         : 6.888868e-02 eV/A
+[2026-03-10 11:57:08,914] DEEPMD INFO    Force  RMSE        : 1.137447e-01 eV/A
+[2026-03-10 11:57:08,914] DEEPMD INFO    Virial MAE         : 1.652163e+00 eV
+[2026-03-10 11:57:08,914] DEEPMD INFO    Virial RMSE        : 2.957518e+00 eV
+[2026-03-10 11:57:08,914] DEEPMD INFO    Virial MAE/Natoms  : 4.347796e-02 eV
+[2026-03-10 11:57:08,914] DEEPMD INFO    Virial RMSE/Natoms : 7.782942e-02 eV
+[2026-03-10 11:57:08,914] DEEPMD INFO    # ----------------------------------------------- 
+[2026-03-10 11:57:08,914] DEEPMD INFO    # ---------------output of dp test--------------- 
+[2026-03-10 11:57:08,914] DEEPMD INFO    # testing system : ../20260310/40
+[2026-03-10 11:57:08,985] DEEPMD INFO    # number of test data : 1 
+[2026-03-10 11:57:08,985] DEEPMD INFO    Energy MAE         : 4.094601e-01 eV
+[2026-03-10 11:57:08,986] DEEPMD INFO    Energy RMSE        : 4.094601e-01 eV
+[2026-03-10 11:57:08,986] DEEPMD INFO    Energy MAE/Natoms  : 1.023650e-02 eV
+[2026-03-10 11:57:08,986] DEEPMD INFO    Energy RMSE/Natoms : 1.023650e-02 eV
+[2026-03-10 11:57:08,986] DEEPMD INFO    Force  MAE         : 8.058371e-02 eV/A
+[2026-03-10 11:57:08,986] DEEPMD INFO    Force  RMSE        : 1.006039e-01 eV/A
+[2026-03-10 11:57:08,986] DEEPMD INFO    Virial MAE         : 4.274282e-01 eV
+[2026-03-10 11:57:08,986] DEEPMD INFO    Virial RMSE        : 5.868533e-01 eV
+[2026-03-10 11:57:08,986] DEEPMD INFO    Virial MAE/Natoms  : 1.068571e-02 eV
+[2026-03-10 11:57:08,986] DEEPMD INFO    Virial RMSE/Natoms : 1.467133e-02 eV
+[2026-03-10 11:57:08,986] DEEPMD INFO    # ----------------------------------------------- 
+[2026-03-10 11:57:08,986] DEEPMD INFO    # ---------------output of dp test--------------- 
+[2026-03-10 11:57:08,986] DEEPMD INFO    # testing system : ../20260310/34
+[2026-03-10 11:57:09,057] DEEPMD INFO    # number of test data : 2 
+[2026-03-10 11:57:09,057] DEEPMD INFO    Energy MAE         : 2.933652e-01 eV
+[2026-03-10 11:57:09,057] DEEPMD INFO    Energy RMSE        : 3.969333e-01 eV
+[2026-03-10 11:57:09,057] DEEPMD INFO    Energy MAE/Natoms  : 8.628387e-03 eV
+[2026-03-10 11:57:09,057] DEEPMD INFO    Energy RMSE/Natoms : 1.167451e-02 eV
+[2026-03-10 11:57:09,057] DEEPMD INFO    Force  MAE         : 4.087596e-02 eV/A
+[2026-03-10 11:57:09,057] DEEPMD INFO    Force  RMSE        : 5.736390e-02 eV/A
+[2026-03-10 11:57:09,057] DEEPMD INFO    Virial MAE         : 5.986507e-01 eV
+[2026-03-10 11:57:09,057] DEEPMD INFO    Virial RMSE        : 1.148797e+00 eV
+[2026-03-10 11:57:09,057] DEEPMD INFO    Virial MAE/Natoms  : 1.760737e-02 eV
+[2026-03-10 11:57:09,057] DEEPMD INFO    Virial RMSE/Natoms : 3.378815e-02 eV
+[2026-03-10 11:57:09,057] DEEPMD INFO    # ----------------------------------------------- 
+[2026-03-10 11:57:09,057] DEEPMD INFO    # ---------------output of dp test--------------- 
+[2026-03-10 11:57:09,057] DEEPMD INFO    # testing system : ../20260310/22
+[2026-03-10 11:57:09,307] DEEPMD INFO    # number of test data : 46 
+[2026-03-10 11:57:09,307] DEEPMD INFO    Energy MAE         : 3.846757e-01 eV
+[2026-03-10 11:57:09,307] DEEPMD INFO    Energy RMSE        : 5.184633e-01 eV
+[2026-03-10 11:57:09,307] DEEPMD INFO    Energy MAE/Natoms  : 1.748526e-02 eV
+[2026-03-10 11:57:09,307] DEEPMD INFO    Energy RMSE/Natoms : 2.356651e-02 eV
+[2026-03-10 11:57:09,307] DEEPMD INFO    Force  MAE         : 6.731141e-02 eV/A
+[2026-03-10 11:57:09,307] DEEPMD INFO    Force  RMSE        : 1.084222e-01 eV/A
+[2026-03-10 11:57:09,307] DEEPMD INFO    Virial MAE         : 5.754846e-01 eV
+[2026-03-10 11:57:09,307] DEEPMD INFO    Virial RMSE        : 9.933916e-01 eV
+[2026-03-10 11:57:09,308] DEEPMD INFO    Virial MAE/Natoms  : 2.615839e-02 eV
+[2026-03-10 11:57:09,308] DEEPMD INFO    Virial RMSE/Natoms : 4.515416e-02 eV
+[2026-03-10 11:57:09,308] DEEPMD INFO    # ----------------------------------------------- 
+[2026-03-10 11:57:09,308] DEEPMD INFO    # ---------------output of dp test--------------- 
+[2026-03-10 11:57:09,308] DEEPMD INFO    # testing system : ../20260310/64
+[2026-03-10 11:57:09,378] DEEPMD INFO    # number of test data : 1 
+[2026-03-10 11:57:09,378] DEEPMD INFO    Energy MAE         : 3.965811e+00 eV
+[2026-03-10 11:57:09,378] DEEPMD INFO    Energy RMSE        : 3.965811e+00 eV
+[2026-03-10 11:57:09,378] DEEPMD INFO    Energy MAE/Natoms  : 6.196579e-02 eV
+[2026-03-10 11:57:09,378] DEEPMD INFO    Energy RMSE/Natoms : 6.196579e-02 eV
+[2026-03-10 11:57:09,378] DEEPMD INFO    Force  MAE         : 1.622898e-01 eV/A
+[2026-03-10 11:57:09,379] DEEPMD INFO    Force  RMSE        : 1.929487e-01 eV/A
+[2026-03-10 11:57:09,379] DEEPMD INFO    Virial MAE         : 4.508631e+00 eV
+[2026-03-10 11:57:09,379] DEEPMD INFO    Virial RMSE        : 5.131198e+00 eV
+[2026-03-10 11:57:09,379] DEEPMD INFO    Virial MAE/Natoms  : 7.044736e-02 eV
+[2026-03-10 11:57:09,379] DEEPMD INFO    Virial RMSE/Natoms : 8.017497e-02 eV
+[2026-03-10 11:57:09,379] DEEPMD INFO    # ----------------------------------------------- 
+[2026-03-10 11:57:09,379] DEEPMD INFO    # ---------------output of dp test--------------- 
+[2026-03-10 11:57:09,379] DEEPMD INFO    # testing system : ../20260310/30
+[2026-03-10 11:57:09,561] DEEPMD INFO    # number of test data : 22 
+[2026-03-10 11:57:09,561] DEEPMD INFO    Energy MAE         : 4.222841e-01 eV
+[2026-03-10 11:57:09,561] DEEPMD INFO    Energy RMSE        : 5.073616e-01 eV
+[2026-03-10 11:57:09,561] DEEPMD INFO    Energy MAE/Natoms  : 1.407614e-02 eV
+[2026-03-10 11:57:09,561] DEEPMD INFO    Energy RMSE/Natoms : 1.691205e-02 eV
+[2026-03-10 11:57:09,561] DEEPMD INFO    Force  MAE         : 8.138585e-02 eV/A
+[2026-03-10 11:57:09,561] DEEPMD INFO    Force  RMSE        : 1.439359e-01 eV/A
+[2026-03-10 11:57:09,561] DEEPMD INFO    Virial MAE         : 6.266756e-01 eV
+[2026-03-10 11:57:09,561] DEEPMD INFO    Virial RMSE        : 1.114101e+00 eV
+[2026-03-10 11:57:09,561] DEEPMD INFO    Virial MAE/Natoms  : 2.088919e-02 eV
+[2026-03-10 11:57:09,561] DEEPMD INFO    Virial RMSE/Natoms : 3.713669e-02 eV
+[2026-03-10 11:57:09,561] DEEPMD INFO    # ----------------------------------------------- 
+[2026-03-10 11:57:09,561] DEEPMD INFO    # ---------------output of dp test--------------- 
+[2026-03-10 11:57:09,561] DEEPMD INFO    # testing system : ../20260310/16
+[2026-03-10 11:57:09,741] DEEPMD INFO    # number of test data : 53 
+[2026-03-10 11:57:09,741] DEEPMD INFO    Energy MAE         : 4.143825e-01 eV
+[2026-03-10 11:57:09,741] DEEPMD INFO    Energy RMSE        : 5.485681e-01 eV
+[2026-03-10 11:57:09,741] DEEPMD INFO    Energy MAE/Natoms  : 2.589890e-02 eV
+[2026-03-10 11:57:09,741] DEEPMD INFO    Energy RMSE/Natoms : 3.428551e-02 eV
+[2026-03-10 11:57:09,741] DEEPMD INFO    Force  MAE         : 7.268016e-02 eV/A
+[2026-03-10 11:57:09,741] DEEPMD INFO    Force  RMSE        : 1.196698e-01 eV/A
+[2026-03-10 11:57:09,741] DEEPMD INFO    Virial MAE         : 6.588046e-01 eV
+[2026-03-10 11:57:09,741] DEEPMD INFO    Virial RMSE        : 1.337397e+00 eV
+[2026-03-10 11:57:09,741] DEEPMD INFO    Virial MAE/Natoms  : 4.117529e-02 eV
+[2026-03-10 11:57:09,742] DEEPMD INFO    Virial RMSE/Natoms : 8.358732e-02 eV
+[2026-03-10 11:57:09,742] DEEPMD INFO    # ----------------------------------------------- 
+[2026-03-10 11:57:09,742] DEEPMD INFO    # ---------------output of dp test--------------- 
+[2026-03-10 11:57:09,742] DEEPMD INFO    # testing system : ../20260310/26
+[2026-03-10 11:57:09,848] DEEPMD INFO    # number of test data : 14 
+[2026-03-10 11:57:09,848] DEEPMD INFO    Energy MAE         : 8.052296e-01 eV
+[2026-03-10 11:57:09,848] DEEPMD INFO    Energy RMSE        : 9.903277e-01 eV
+[2026-03-10 11:57:09,848] DEEPMD INFO    Energy MAE/Natoms  : 3.097037e-02 eV
+[2026-03-10 11:57:09,848] DEEPMD INFO    Energy RMSE/Natoms : 3.808953e-02 eV
+[2026-03-10 11:57:09,849] DEEPMD INFO    Force  MAE         : 6.562646e-02 eV/A
+[2026-03-10 11:57:09,849] DEEPMD INFO    Force  RMSE        : 1.078130e-01 eV/A
+[2026-03-10 11:57:09,849] DEEPMD INFO    Virial MAE         : 5.699209e-01 eV
+[2026-03-10 11:57:09,849] DEEPMD INFO    Virial RMSE        : 1.133116e+00 eV
+[2026-03-10 11:57:09,849] DEEPMD INFO    Virial MAE/Natoms  : 2.192003e-02 eV
+[2026-03-10 11:57:09,849] DEEPMD INFO    Virial RMSE/Natoms : 4.358140e-02 eV
+[2026-03-10 11:57:09,849] DEEPMD INFO    # ----------------------------------------------- 
+[2026-03-10 11:57:09,849] DEEPMD INFO    # ---------------output of dp test--------------- 
+[2026-03-10 11:57:09,849] DEEPMD INFO    # testing system : ../20260310/32
+[2026-03-10 11:57:10,091] DEEPMD INFO    # number of test data : 40 
+[2026-03-10 11:57:10,092] DEEPMD INFO    Energy MAE         : 5.437630e-01 eV
+[2026-03-10 11:57:10,092] DEEPMD INFO    Energy RMSE        : 7.198094e-01 eV
+[2026-03-10 11:57:10,092] DEEPMD INFO    Energy MAE/Natoms  : 1.699259e-02 eV
+[2026-03-10 11:57:10,092] DEEPMD INFO    Energy RMSE/Natoms : 2.249404e-02 eV
+[2026-03-10 11:57:10,092] DEEPMD INFO    Force  MAE         : 7.603286e-02 eV/A
+[2026-03-10 11:57:10,092] DEEPMD INFO    Force  RMSE        : 1.244971e-01 eV/A
+[2026-03-10 11:57:10,092] DEEPMD INFO    Virial MAE         : 7.226002e-01 eV
+[2026-03-10 11:57:10,092] DEEPMD INFO    Virial RMSE        : 1.598762e+00 eV
+[2026-03-10 11:57:10,092] DEEPMD INFO    Virial MAE/Natoms  : 2.258126e-02 eV
+[2026-03-10 11:57:10,092] DEEPMD INFO    Virial RMSE/Natoms : 4.996131e-02 eV
+[2026-03-10 11:57:10,092] DEEPMD INFO    # ----------------------------------------------- 
+[2026-03-10 11:57:10,092] DEEPMD INFO    # ---------------output of dp test--------------- 
+[2026-03-10 11:57:10,092] DEEPMD INFO    # testing system : ../20260310/48
+[2026-03-10 11:57:10,160] DEEPMD INFO    # number of test data : 1 
+[2026-03-10 11:57:10,160] DEEPMD INFO    Energy MAE         : 6.652789e-01 eV
+[2026-03-10 11:57:10,160] DEEPMD INFO    Energy RMSE        : 6.652789e-01 eV
+[2026-03-10 11:57:10,160] DEEPMD INFO    Energy MAE/Natoms  : 1.385998e-02 eV
+[2026-03-10 11:57:10,160] DEEPMD INFO    Energy RMSE/Natoms : 1.385998e-02 eV
+[2026-03-10 11:57:10,160] DEEPMD INFO    Force  MAE         : 1.327333e-01 eV/A
+[2026-03-10 11:57:10,160] DEEPMD INFO    Force  RMSE        : 1.938577e-01 eV/A
+[2026-03-10 11:57:10,160] DEEPMD INFO    Virial MAE         : 1.074161e+00 eV
+[2026-03-10 11:57:10,160] DEEPMD INFO    Virial RMSE        : 1.298295e+00 eV
+[2026-03-10 11:57:10,161] DEEPMD INFO    Virial MAE/Natoms  : 2.237835e-02 eV
+[2026-03-10 11:57:10,161] DEEPMD INFO    Virial RMSE/Natoms : 2.704781e-02 eV
+[2026-03-10 11:57:10,161] DEEPMD INFO    # ----------------------------------------------- 
+[2026-03-10 11:57:10,161] DEEPMD INFO    # ---------------output of dp test--------------- 
+[2026-03-10 11:57:10,161] DEEPMD INFO    # testing system : ../20260310/78
+[2026-03-10 11:57:10,230] DEEPMD INFO    # number of test data : 1 
+[2026-03-10 11:57:10,230] DEEPMD INFO    Energy MAE         : 1.670657e-01 eV
+[2026-03-10 11:57:10,230] DEEPMD INFO    Energy RMSE        : 1.670657e-01 eV
+[2026-03-10 11:57:10,230] DEEPMD INFO    Energy MAE/Natoms  : 2.141867e-03 eV
+[2026-03-10 11:57:10,230] DEEPMD INFO    Energy RMSE/Natoms : 2.141867e-03 eV
+[2026-03-10 11:57:10,230] DEEPMD INFO    Force  MAE         : 3.925477e-02 eV/A
+[2026-03-10 11:57:10,230] DEEPMD INFO    Force  RMSE        : 5.691187e-02 eV/A
+[2026-03-10 11:57:10,230] DEEPMD INFO    Virial MAE         : 3.281512e-01 eV
+[2026-03-10 11:57:10,230] DEEPMD INFO    Virial RMSE        : 5.764158e-01 eV
+[2026-03-10 11:57:10,230] DEEPMD INFO    Virial MAE/Natoms  : 4.207067e-03 eV
+[2026-03-10 11:57:10,230] DEEPMD INFO    Virial RMSE/Natoms : 7.389947e-03 eV
+[2026-03-10 11:57:10,230] DEEPMD INFO    # ----------------------------------------------- 
+[2026-03-10 11:57:10,230] DEEPMD INFO    # ----------weighted average of errors----------- 
+[2026-03-10 11:57:10,230] DEEPMD INFO    # number of systems : 40
+[2026-03-10 11:57:10,231] DEEPMD INFO    Energy MAE         : 4.312216e-01 eV
+[2026-03-10 11:57:10,231] DEEPMD INFO    Energy RMSE        : 6.106197e-01 eV
+[2026-03-10 11:57:10,231] DEEPMD INFO    Energy MAE/Natoms  : 2.069683e-02 eV
+[2026-03-10 11:57:10,231] DEEPMD INFO    Energy RMSE/Natoms : 2.774865e-02 eV
+[2026-03-10 11:57:10,231] DEEPMD INFO    Force  MAE         : 7.788792e-02 eV/A
+[2026-03-10 11:57:10,231] DEEPMD INFO    Force  RMSE        : 1.270419e-01 eV/A
+[2026-03-10 11:57:10,231] DEEPMD INFO    Virial MAE         : 6.661677e-01 eV
+[2026-03-10 11:57:10,231] DEEPMD INFO    Virial RMSE        : 1.381450e+00 eV
+[2026-03-10 11:57:10,231] DEEPMD INFO    Virial MAE/Natoms  : 3.295221e-02 eV
+[2026-03-10 11:57:10,231] DEEPMD INFO    Virial RMSE/Natoms : 6.530722e-02 eV
+[2026-03-10 11:57:10,231] DEEPMD INFO    # ----------------------------------------------- 

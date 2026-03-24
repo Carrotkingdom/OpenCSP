@@ -1,0 +1,20 @@
+The test results for foundation models: mace, grace, mattersim, and dpa3.1, and in the corresponding folders. 
+In each folder, there are tasks storing the POSCAR and energy_GNoME from GNoME. The energy, force, and stress are from the foundation models.
+By running cal_other.py, we get the energy MAE and RMSE for mace, grace, mattersim, and dpa3.1:
+-------------------------------------------------
+Processing model: mace
+Processing model: grace
+Processing model: mattersim
+Processing model: dpa3.1
+
+--- Benchmark Metrics (meV/atom) ---
+    Model  MAE (meV/atom)  RMSE (meV/atom)  Count
+     mace      100.078517       205.715545   1008
+    grace       95.990582       203.260133   1008
+mattersim      109.200991       206.823289   1008
+   dpa3.1       94.691132       201.630237   1008
+--------------------------------------------------
+Also, we will get the gnome_comparison_raw_basis.csv, which is read by distribution.py to plot the GNoME_Error_Distribution.png, the Figure S1. 
+
+The results of the OpenCSP-Lx were derived by running the dptest on abacus-labeld dataset, stored in the task.xthin_init folders.
+By printing all the MAE and RMSE values in plot_energy.py, we got the E-new.png, which is Figure 2 in the OpenCSP paper. 
