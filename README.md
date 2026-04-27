@@ -6,8 +6,6 @@ This folder contains the data and scripts needed to reproduce the revised GNoME 
 - GRACE-2L-OAM
 - DPA-3.1-3M-FT
 
-The OpenCSP results are not included here because they were uploaded previously and were unchanged in this revision.
-
 ## Directory structure
 
 - `data/foundation_gnome_energies.csv`
