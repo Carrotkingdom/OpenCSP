@@ -1,0 +1,8 @@
+Model,Count,GNoME_raw_MAE_meV_per_atom,GNoME_raw_RMSE_meV_per_atom,GNoME_raw_MeanErr_meV_per_atom,VASP_relax_SP_MAE_meV_per_atom,VASP_relax_SP_RMSE_meV_per_atom,VASP_relax_SP_MeanErr_meV_per_atom
+MACE-MPA-0,1008,100.1,205.7,98.3,25.0,123.4,-1.1
+MatterSim v1 5M,1008,109.2,206.8,108.2,33.6,124.8,8.8
+GRACE-2L-OAM,1008,96.0,203.3,93.6,20.8,123.4,-5.8
+DPA-3.1-3M-FT,1008,94.7,201.6,91.8,19.5,123.4,-7.6
+OpenCSP-L6,1008,,,,20.7,27.7,
+OpenCSP-L12,1008,,,,17.2,23.1,
+OpenCSP-L24,1008,,,,15.6,21.4,

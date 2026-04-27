@@ -1,0 +1,7 @@
+outlier_count=13
+outliers_with_lanthanide=13
+outliers_with_Gd=13
+remaining_tasks=995
+remaining_Gd_tasks=22
+remaining_other_ln_tasks=638
+remaining_no_ln_tasks=335
